@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+}
+
+.container-index{
+  width: 100%;
+}
+
+.log{
+  display: grid;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  cursor: hand;
+  cursor: pointer;
+}
