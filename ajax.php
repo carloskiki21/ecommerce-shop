@@ -12,6 +12,9 @@ switch (isset($_GET['mode']) ? $_GET['mode'] : null) {
   case 'lostpass':
       require('core/bin/ajax/goLostpass.php');
     break;
+  case 'add':
+      require('core/bin/ajax/goAdd.php');
+    break;
   default:
     header('location: index.php');
     break;

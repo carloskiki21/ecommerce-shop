@@ -13,6 +13,8 @@
 
 					echo '<a href="?view=logout">Salir</a>';
 
+					include('html/overall/topnav.php');
+
 
 				}else{
 					echo '<a href="?view=login">login</a>';

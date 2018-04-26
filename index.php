@@ -1,5 +1,11 @@
 <?php
 
+/*
+
+*Lostpass funct
+
+*/
+
 //this include all var needed
 require('core/core.php');
 
