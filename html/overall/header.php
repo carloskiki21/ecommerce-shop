@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="views/fontawesome/css/fonts.css" type="text/css">
 <link rel="stylesheet" href="views/app/css/style.css" type="text/css">
 
-<title>Ecommerce-Shop</title>
+<title><?php echo APP_TITTLE ?></title>
 
 </head>
 
